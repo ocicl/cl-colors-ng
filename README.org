@@ -1,0 +1,9 @@
+* cl-colors-ng
+
+A simple color library for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://codeberg.org/cage/cl-colors-ng.git |
+| commit  | 310e649                                        |
+| systems | cl-colors-ng                                   |
+|---------+------------------------------------------------|
